@@ -1,0 +1,2 @@
+This file demonstrates Java file copying.
+Maven project with Jenkins pipeline.
